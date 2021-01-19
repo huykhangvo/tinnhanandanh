@@ -1,8 +1,8 @@
 <?php
-$username = "id10530670_wp_f9b3cacc21af18d68f7f00e3e1d43689"; // Khai báo username
-$password = "V]GUY6jB+($_RyLf";      // Khai báo password
-$server   = "databases-auth.000webhost.com";   // Khai báo server
-$dbname   = "id10530670_wp_f9b3cacc21af18d68f7f00e3e1d43689";      // Khai báo database
+$username = "sql10388086"; // Khai báo username
+$password = "rSwhMZDdXk";      // Khai báo password
+$server   = "sql10.freemysqlhosting.net";   // Khai báo server
+$dbname   = "sql10388086";      // Khai báo database
 
 // Kết nối database tintuc
 $con = mysqli_connect($server, $username, $password, $dbname);
